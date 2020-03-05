@@ -1,0 +1,10 @@
+C:\Users\Don Cremo\Source\Repos\CodeTestSimCorp\CodeTestSimCorp\bin\Debug\CodeTestSimCorp.exe.config
+C:\Users\Don Cremo\Source\Repos\CodeTestSimCorp\CodeTestSimCorp\bin\Debug\CodeTestSimCorp.exe
+C:\Users\Don Cremo\Source\Repos\CodeTestSimCorp\CodeTestSimCorp\bin\Debug\CodeTestSimCorp.pdb
+C:\Users\Don Cremo\Source\Repos\CodeTestSimCorp\CodeTestSimCorp\obj\Debug\CodeTestSimCorp.csprojAssemblyReference.cache
+C:\Users\Don Cremo\Source\Repos\CodeTestSimCorp\CodeTestSimCorp\obj\Debug\CodeTestSimCorp.csproj.CoreCompileInputs.cache
+C:\Users\Don Cremo\Source\Repos\CodeTestSimCorp\CodeTestSimCorp\obj\Debug\CodeTestSimCorp.exe
+C:\Users\Don Cremo\Source\Repos\CodeTestSimCorp\CodeTestSimCorp\obj\Debug\CodeTestSimCorp.pdb
+C:\Users\Don Cremo\Source\Repos\CodeTestSimCorp\CodeTestSimCorp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Don Cremo\Source\Repos\CodeTestSimCorp\CodeTestSimCorp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Don Cremo\Source\Repos\CodeTestSimCorp\CodeTestSimCorp\obj\Debug\CodeTestSimCorp.csproj.CopyComplete
